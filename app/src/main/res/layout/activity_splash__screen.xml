@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_gravity="center"
+    android:background="@android:color/white"
+    android:id="@+id/lin_lay"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_gravity="center"
+        android:layout_width="130dp"
+        android:id="@+id/pubg"
+        android:layout_height="130dp"
+        android:background="@drawable/whatsapp_logo" />
+
+    <ImageView
+        android:layout_gravity="center"
+        android:layout_width="250dp"
+        android:layout_height="150dp"
+        android:id="@+id/logo"
+        android:background="@drawable/download" />
+
+</LinearLayout>

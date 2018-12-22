@@ -1,0 +1,343 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "21",
+      "name": "Pep",
+      "publisher": "Kushal Mehta",
+      "tray_image_file": "file_989771.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file":"file_989771.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989772.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989773.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989774.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989775.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989776.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989777.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989778.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989779.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989780.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989781.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989782.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989783.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989784.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989785.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989786.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989787.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989788.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989789.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989790.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989791.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989792.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989793.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989794.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989795.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989796.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989797.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989798.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989799.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}
+
+      ]
+    },
+    {
+      "identifier": "22",
+      "name": "Pokemon",
+      "publisher": "Kushal Mehta",
+      "tray_image_file": "file_989971.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file":"file_989971.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989972.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989973.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989974.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989975.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989976.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989977.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989978.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989979.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989980.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989981.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989982.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989983.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989984.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}
+
+      ]
+    },
+    {
+      "identifier": "23",
+      "name": "Rick",
+      "publisher": "Kushal Mehta",
+      "tray_image_file": "file_989740.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file":"file_989740.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989741.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989742.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989743.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989744.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989745.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989746.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989747.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989748.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989749.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989750.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989751.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989752.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989753.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989754.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989755.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989756.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989757.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989758.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989759.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989760.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989761.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989762.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989763.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989764.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989765.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_989766.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}
+
+      ]
+    },
+    {
+      "identifier": "39",
+      "name": "Leone Messi",
+      "publisher": "Kushal Mehta",
+      "tray_image_file": "file_1055021.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file":"file_1055021.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055022.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055023.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055024.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055026.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055027.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055028.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055029.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055030.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055031.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055032.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055034.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055035.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055037.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055038.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055039.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055040.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055041.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055042.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055043.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055044.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055046.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055047.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055048.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055049.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055051.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055053.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055055.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1055057.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}
+      ]
+    },
+    {
+      "identifier": "41",
+      "name": "Ice Age",
+      "publisher": "Kushal Mehta",
+      "tray_image_file": "file_1078835.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {"image_file":"file_1078835.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078836.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078837.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078838.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078839.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078840.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078841.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078842.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078843.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078844.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078845.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078846.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078847.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078848.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078849.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078850.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078851.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078852.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078853.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078854.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078855.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078856.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078857.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},
+        {"image_file":"file_1078858.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}
+      ]
+    },
+    {
+      "identifier": "48",
+      "name": "South Special",
+      "publisher": "Kushal Mehta",
+      "tray_image_file": "file_1079472.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1079328.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079329.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079330.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079331.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079332.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079333.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079334.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079335.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079342.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079351.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079352.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079364.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079365.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079366.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079367.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079368.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079369.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079376.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079402.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079404.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079407.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079409.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079410.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079412.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079415.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079416.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079443.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079444.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079471.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079472.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "55",
+      "name": "Super Power",
+      "publisher": "Kushal Mehta",
+      "tray_image_file": "file_1078953.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1078953.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078957.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078958.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078959.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078960.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078973.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078974.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078975.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078976.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078977.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078990.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078991.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078992.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078993.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1078994.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079007.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079008.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079009.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079010.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079011.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079024.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079025.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079026.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079027.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079028.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079041.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079042.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079043.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079044.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079045.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "57",
+      "name": "Super Power 1",
+      "publisher": "Kushal Mehta",
+      "tray_image_file": "file_1079039.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1079039.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079040.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079046.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079047.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079048.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079049.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079050.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079051.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079052.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1079053.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "58",
+      "name": "Minions 1",
+      "publisher": "Kushal Mehta",
+      "tray_image_file": "file_1067840.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1067840.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067888.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067889.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067890.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067891.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067892.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067905.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067906.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067907.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067908.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067909.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067922.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067923.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067924.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067925.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067926.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067941.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067942.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067943.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067944.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067946.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067960.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067961.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067962.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067963.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067964.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067979.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067980.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067981.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1067982.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "69",
+      "name": "Memes Face",
+      "publisher": "Kushal Mehta",
+      "tray_image_file": "file_1062802.webp",
+      "publisher_email": "",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [{"image_file":"file_1062802.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062803.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062805.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062806.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062819.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062820.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062821.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062822.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062835.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062836.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062837.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062838.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062839.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062852.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062853.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062854.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062855.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062856.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062857.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062869.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062870.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062871.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062872.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062873.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062874.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062886.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062887.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062888.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062889.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]},{"image_file":"file_1062890.webp","emojis":["\u2615\ufe0f","\ud83d\ude42"]}]
+    },
+    {
+      "identifier": "pubg",
+      "name": "PUBG Stickers",
+      "publisher": "Kushal Mehta",
+      "tray_image_file": "1.webp",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "1.webp"
+        },
+        {
+          "image_file": "2.webp"
+        },
+        {
+          "image_file": "3.webp"
+        },
+        {
+          "image_file": "4.webp"
+        },
+        {
+          "image_file": "5.webp"
+        },
+        {
+          "image_file": "6.webp"
+        },
+        {
+          "image_file": "7.webp"
+        },
+        {
+          "image_file": "8.webp"
+        },
+        {
+          "image_file": "9.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        }
+      ]
+    }
+  ]
+}
